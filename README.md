@@ -24,7 +24,7 @@ Display | 720 x 1600 pixels, 6.5 inches, 60/90 hz
 Works:
 
 - [X] ADB
-- [ ] Decryption
+- [X] Decryption
 - [X] Display
 - [X] Fasbootd
 - [X] Flashing
